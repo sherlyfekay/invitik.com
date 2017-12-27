@@ -170,12 +170,17 @@ h6 {
 .service-icon {
   background-color: #fff;
   color: #1D809F;
-  height: 7rem;
-  width: 7rem;
+  height: 10rem;
+  width: 10rem;
   display: block;
   line-height: 7.5rem;
   font-size: 2.25rem;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1); }
+
+.img-icon {
+  height: 6rem;
+  width: 6rem;
+}
 
 .callout {
   padding: 15rem 0;
@@ -264,12 +269,12 @@ a {
   border-color: #cc6600 !important;
   color: #fff !important; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background-color: #155d74 !important;
-    border-color: #155d74 !important; }
+    background-color: #f4a442 !important;
+    border-color: #f4a442 !important; }
 
 .btn-secondary {
-  background-color: #ecb807 !important;
-  border-color: #ecb807 !important;
+  background-color: #f4a442 !important;
+  border-color: #f4a442 !important;
   color: #fff !important; }
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
     background-color: #ba9106 !important;
